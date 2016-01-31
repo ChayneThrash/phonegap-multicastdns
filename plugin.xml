@@ -17,7 +17,7 @@
             </feature>
         </config-file>
         
-        <js-module src="www/android/MulticastDNS.js" name="MulticastDNS">
+        <js-module src="www/MulticastDNS.js" name="MulticastDNS">
             <clobbers target="multicastDNS" />
         </js-module>
 
